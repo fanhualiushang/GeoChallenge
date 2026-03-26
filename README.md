@@ -1,6 +1,6 @@
 # GeoChallenge: A Multi-Answer Multiple-Choice Benchmark for Geometric Reasoning with Diagrams
 
-Official repository for the paper **"GeoChallenge: A Multi-Answer Multiple-Choice Benchmark for Geometric Reasoning with Diagrams"** ([arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)).
+Official repository for the paper **"GeoChallenge: A Multi-Answer Multiple-Choice Benchmark for Geometric Reasoning with Diagrams"** ([arXiv:2603.19252](https://arxiv.org/abs/2603.19252)).
 
 ## Current Status
 
@@ -25,6 +25,6 @@ We are currently cleaning and organizing the codebase for public release.
 @article{2026paper,
   title   = {Paper Title},
   author  = {Anonymous Authors},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal = {arXiv preprint arXiv:2603.19252},
   year    = {2026}
 }
